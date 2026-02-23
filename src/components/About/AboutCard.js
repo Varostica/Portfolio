@@ -8,33 +8,34 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hola, mi nombre es <span className="purple">Valentina Aróstica</span>,
+            pero mis amigos me dice <span className="purple">Varo, Varóstica o Varito</span>.
+             Soy de <span className="purple"> Santiago de Chile.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Actualmente trabajo como desarrolladora de Software Full-Satck en Softland.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Además de desarrollar código, realizo varias actividades en mi tiempo libre:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Pintar cuadros con acrílico. 🎨🖌
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Aprender idiomas. 💬🌎
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Cocinar. 🍰🥗
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Entrenar y practicar deportes. 💪🎾🏐
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Me inspira resolver problemas y crear cosas que dejen huella, con la mente en la tecnología y el corazón en las personas."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Varostica</footer>
         </blockquote>
       </Card.Body>
     </Card>
